@@ -1,6 +1,7 @@
 # Weather-App
 A weather app made with HTML, CSS and JS.
-Currently Live On: 
+
+## Currently Live On: https://mapigator.netlify.app/
 
 
 This Website Is made using Leaflet and Openweathermap Api for collecting weather data and creating a mapping system. 
